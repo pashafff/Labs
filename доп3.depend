@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1715524206 source:c:\users\pasha\downloads\alg_and_prog\проги\доп3\main.c
+	<stdio.h>
+	"lr.h"
+
+1715525108 source:c:\users\pasha\downloads\alg_and_prog\проги\доп3\lr.c
+	<stdio.h>
+	"lr.h"
+
+1715524760 c:\users\pasha\downloads\alg_and_prog\проги\доп3\lr.h
+
+1715979110 source:i:\проги\доп3\lr.c
+	<stdio.h>
+	"lr.h"
+
+1715524762 i:\проги\доп3\lr.h
+
+1715973506 source:i:\проги\доп3\main.c
+	<stdio.h>
+	"lr.h"
+
