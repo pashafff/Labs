@@ -49,4 +49,5 @@ int main(void)
         six_add();
     else if(choice == 13)
         seven();
+    getchar();
 }
